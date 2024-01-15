@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&weight=900&color=%d3409b&random=true&center=true&lines=Hi,+I'm howlwindy!;Front-stack developer" /></p>
+<p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&weight=900&color=%d3409b&center=true&vCenter=true&lines=Hi,%20There!;Front-end%20developer" /></a></p>
 
 ---
 
