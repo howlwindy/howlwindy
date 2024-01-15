@@ -4,7 +4,7 @@
 
 <img width="16" height="16" src="https://emojis.slackmojis.com/emojis/images/1643514120/795/cool.gif?1643514120" /> **How to reach me**
 
-[![](https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/haowen-wang-130b9a26a) [![](https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/howlwindy) [![](https://img.shields.io/badge/bilibili-00A1D6?logo=bilibili&logoColor=white&style=for-the-badge)](https://space.bilibili.com/34814475)
+[![](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:howlwindy@gmail.com?subject=[GitHub]&body=Hi,%20There!%0A%0A...) [![](https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/haowen-wang-130b9a26a) [![](https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/howlwindy) [![](https://img.shields.io/badge/bilibili-00A1D6?logo=bilibili&logoColor=white&style=for-the-badge)](https://space.bilibili.com/34814475)
 
 ---
 
@@ -37,7 +37,6 @@
 
 <img width="16" height="16" src="https://emojis.slackmojis.com/emojis/images/1643511580/42957/activity.gif?1643511580" /> **Stats**
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="200" src="https://github-readme-stats.vercel.app/api?username=howlwindy&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&border_radius=8" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howlwindy&langs_count=10&layout=compact&theme=synthwave&border_radius=8&hide=C,C%2B%2B,Swift,Kotlin,CMake" /></a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph/?username=howlwindy&hide_border=true&area=true&bg_color=292238&color=e3e9ec&title_color=e3e9ec&line=d3409b&point=ff894a&area_color=4e4a5c&radius=14" /></a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="100%" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=howlwindy&theme=synthwave&hide_border=true&border_radius=6"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img height="200" src="https://github-readme-stats.vercel.app/api?username=howlwindy&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&border_radius=8" /><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howlwindy&hide_title=true&langs_count=10&layout=compact&theme=synthwave&border_radius=8&hide=C,C%2B%2B,Swift,Kotlin,CMake" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph/?username=howlwindy&hide_title=true&hide_border=true&area=true&bg_color=292238&color=e3e9ec&title_color=e3e9ec&line=d3409b&point=ff894a&area_color=4e4a5c&radius=14" /></a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="100%" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=howlwindy&hide_title=true&theme=synthwave&hide_border=true&border_radius=6"/></a>
